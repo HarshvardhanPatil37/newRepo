@@ -4,3 +4,6 @@ second update from github 3
 
 
 Fixed bug 04
+
+
+fixed 05
